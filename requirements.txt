@@ -1,0 +1,7 @@
+
+pytesseract
+Pillow
+opencv-python
+indictrans2
+torch
+sqlite3
